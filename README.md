@@ -3,7 +3,7 @@
 Reference for managing projects and publishing files on GitHub.
 
 📌 1. Install & Setup
-git --version > check if Git is installed
+git --version `check if Git is installed`
 
 git config --global user.name "Saiful Islam Ronak" // set your name
 git config --global user.email "your-email@example.com" // set your email
